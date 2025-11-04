@@ -1,8 +1,4 @@
-Here’s your cleaned-up and updated **GitHub profile README** — I’ve removed all the broken (404) image URLs that came from `devicons.github.io` (that site no longer exists) and replaced them with valid CDN links from **[cdn.jsdelivr.net/gh/devicons/devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/)**. Everything else is preserved and working. ✅
 
----
-
-```html
 <h1 align="center">Hi 👋, I'm Saurabh Chandra Patel</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -65,8 +61,3 @@ Here’s your cleaned-up and updated **GitHub profile README** — I’ve remove
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="unboxingmind" height="30" width="30" />
   </a>
 </p>
-```
-
----
-
-Would you like me to **add badges (e.g., GitHub trophies, followers, streak stats, etc.)** or keep it clean and minimal like this?
